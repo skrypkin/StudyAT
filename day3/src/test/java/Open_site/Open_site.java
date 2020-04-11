@@ -21,7 +21,7 @@ public class Open_site {    public static void main(String[] args) {
         System.out.println("Test Failed");
     }
 
-    driver.close();
+    driver.quit();
 
 }
 }
