@@ -20,7 +20,7 @@ public class Vector2d extends AbstractVector2d {
 
     @Override
     public double sumVector2d() {
-        return 0;
+        return this.getX() + ;
     }
 
     @Override
