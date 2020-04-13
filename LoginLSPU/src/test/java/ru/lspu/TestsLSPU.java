@@ -25,13 +25,7 @@ public class TestsLSPU extends SettingsLSPU {
     public void ClickLesson() {
 
         Date date = new Date();
-
-
-        if (){
-
-
-
-        }
+        
 
     }
 
