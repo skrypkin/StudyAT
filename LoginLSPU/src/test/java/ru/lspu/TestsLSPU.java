@@ -14,8 +14,8 @@ public class TestsLSPU extends SettingsLSPU {
 
         driver.get("http://lspu-lipetsk.ru/modules.php?name=kabinet");
 
-        driver.findElement(By.name("avt_login")).sendKeys("ghhwnz");
-        driver.findElement(By.name("avt_pass")).sendKeys("BDjNBehA4");
+        driver.findElement(By.name("avt_login")).sendKeys("***");
+        driver.findElement(By.name("avt_pass")).sendKeys("***");
         driver.findElement(By.name("avt_mem")).click();
         driver.findElement(By.className("red_form_button")).click();
         driver.findElement(By.id("l22")).click();
