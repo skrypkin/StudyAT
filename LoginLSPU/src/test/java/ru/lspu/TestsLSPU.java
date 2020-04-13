@@ -27,7 +27,7 @@ public class TestsLSPU extends SettingsLSPU {
         Date date = new Date();
 
 
-        if ( == date){
+        if (){
 
 
 
