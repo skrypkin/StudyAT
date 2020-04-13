@@ -11,8 +11,8 @@ public class FirstTest extends WebDriverSettings {
 
         driver.get("https://ya.ru");
 
-       // String title = driver.getTitle();
-       // Assert.assertEquals(true, title.equals("Виктор Мелиоров"));
+        String title = driver.getTitle();
+        Assert.assertEquals(true, title.equals("Виктор Мелиоров"));
 
     }
 
